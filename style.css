@@ -1,0 +1,167 @@
+body{
+   margin-left: 0%;
+margin-right: 200px;
+margin-top: 0%;
+}
+.imageandtitle{
+   background-color:white;
+    width: 100%; 
+display: inline-flex;
+justify-content: center;
+padding: 100px;
+}
+ .hire{
+   background-color: #FF0066;
+   color: white;
+   padding: 10px;
+   width: 150px;
+   border: none;
+}
+.works{
+   background-color: white;
+   color: black;
+   border: 2px solid  #FF0066 ;
+   width: 150px;
+   padding: 8px; 
+}
+.paragraph{
+   width:60%; 
+   margin-top:150px;
+   margin-right: 0%;
+   padding-right: 0%;
+ padding:100px;
+} 
+ .photo{
+   margin-top: 200x;
+    width:30%;
+   /* margin-right:400px ; */
+   margin-left: 0%;
+   padding-left: 0%;
+}  
+.ourfeatures{
+   gap:8%;
+}
+.pul{
+   color: #FF0066;
+}
+.allcard{
+ font-weight: bold;
+}
+.pata{
+   color: #FF0066;
+  padding-left: 40px;
+  padding-top: 40px;
+  font-size: x-large;
+   
+}
+.allcard{
+   background-color: whitesmoke;
+   gap: 20%;
+   border: none;
+   border-top: 2px solid  #FF0066 ; 
+ 
+}
+.secondcard{
+   background-color: whitesmoke;
+   gap: 20%;
+   border: none;
+}
+.read{
+  
+border: 2px dotted white ;
+background-color: #FF0066;
+color: white;
+width: 200px;
+padding: 10px;
+}
+.croselp{
+   width: 50%;
+margin-right: 900px;
+margin-left: 0%;
+text-align: justify;
+}
+.card{
+   width: 100%;
+   border: none;
+}
+ .we{
+padding-left:100px;
+ }
+ ul{
+   margin-top: 100px;
+   list-style: none;
+  
+ }
+ .web{
+   background-color: whitesmoke;
+   margin-top: 30px;
+ }
+ img{
+   color: #FF0066;
+ }
+ .overlay{
+  color:rgba(0,0,255,.7 )
+ }
+ .fourpic{
+   width: 100%;
+ }
+ .overlay{
+   width:24% ;
+   gap: 4%;
+ }
+ .tk{
+   width: 15%;
+ }
+ .get{
+   background-color:gray;
+   color: white;
+   width:200px;
+   padding: 10px;
+   border: none;
+ }
+button:hover{
+   background-color: #FF0066;
+
+}
+
+.bacic{
+  
+   border: 4px solid  #FF0066;
+}
+/* .people{
+   height:200px ;
+} */
+.image{
+   height:600px ;
+   width: 100%;
+}
+.last{
+   width: 100%;
+   height: 500px;
+}
+.see{
+   margin-left: 300px;
+   margin-top: 50px;
+   width: 200px;
+ padding: 10px;
+ background-color: #FF0066;
+ color: white;
+ border: none;
+ float: inline-end;
+}
+.teach{
+   background-color: black;
+   color: white;
+   padding: 8px;
+   width:90px ;
+   border-radius: 10px;
+}
+strong:hover{
+   color: #FF0066;
+}
+.wedto{
+   width: 100%;
+   height: 100px;
+   background-color: black;
+   margin-left: 100px;
+}
